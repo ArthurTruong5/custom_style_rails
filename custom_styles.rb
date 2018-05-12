@@ -6,7 +6,7 @@ module GenApp
       g.template_engine :erb
       g.test_framework :test_unit, fixture: false
       g.stylesheets false
-      g.javascripts
+      g.javascripts false
 
   end
 end
