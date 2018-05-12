@@ -8,5 +8,6 @@ module GenApp
       g.stylesheets false
       g.javascripts false
 
+    end
   end
 end
